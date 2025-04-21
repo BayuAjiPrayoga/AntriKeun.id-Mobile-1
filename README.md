@@ -14,7 +14,7 @@
 
 ## Judul Studi Kasus
 
-**Manajemen Produk (ManaPro)**  
+**AntriKeun**  
 
 ---
 
@@ -76,11 +76,22 @@
 ---
 
 ## Hasil Project
-</p>
-<h2 id="Tampilan Aplikasi">Tampilan Aplikasi AntriKeun.id</h2>
-<p>[Tampilan]<img src="https://github.com/BayuAjiPrayoga/AntriKeun.id-Mobile-1/blob/main/antrikeun.png" alt="pict3"></p>
-<p><img src="https://github.com/BayuAjiPrayoga/AntriKeun.id-Mobile-1/blob/main/gambar1.jpg" alt="pict3"></p>
-<p>[Tampilan Memilih Waktu Antrian]<img src="https://github.com/BayuAjiPrayoga/AntriKeun.id-Mobile-1/blob/main/gambar2.jpg" alt="pict3"></p>
-<p>[Tampilan Pop Up Konfirmasi Booking]<img src="https://github.com/BayuAjiPrayoga/AntriKeun.id-Mobile-1/blob/main/gambar3.jpg" alt="pict3"></p>
-<h2 id="tampilan-aplikasi">TERIMA KASIH</h2>
-</p>
+
+### Tampilan Aplikasi AntriKeun.id
+
+#### Tampilan Header
+![Tampilan Header](https://github.com/BayuAjiPrayoga/AntriKeun.id-Mobile-1/blob/main/antrikeun.png)
+
+#### Tampilan Awal Aplikasi
+![Tampilan Awal](https://github.com/BayuAjiPrayoga/AntriKeun.id-Mobile-1/blob/main/gambar1.jpg)
+
+#### Tampilan Memilih Waktu Antrian
+![Tampilan Waktu Antrian](https://github.com/BayuAjiPrayoga/AntriKeun.id-Mobile-1/blob/main/gambar2.jpg)
+
+#### Tampilan Pop-Up Konfirmasi Booking
+![Tampilan Pop-Up Booking](https://github.com/BayuAjiPrayoga/AntriKeun.id-Mobile-1/blob/main/gambar3.jpg)
+
+---
+
+## TERIMA KASIH 🙏
+
